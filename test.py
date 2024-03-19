@@ -17,7 +17,7 @@ class_mapping = {
 }
 
 # Load your trained model
-model = tf.keras.models.load_model('/content/my_combined_model (3).h5')
+model = tf.keras.models.load_model('my_combined_model (3).h5')
 
 # Function to preprocess the image so it can be fed to the model
 def preprocess_image(image):
