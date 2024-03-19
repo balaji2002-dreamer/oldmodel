@@ -1,5 +1,5 @@
 import streamlit as st
-!pip install tensorflow
+pip install tensorflow
 from PIL import Image
 import numpy as np
 import tensorflow as tf
