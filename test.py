@@ -1,4 +1,5 @@
 import streamlit as st
+source /home/adminuser/venv/bin/activate
 pip install tensorflow
 from PIL import Image
 import numpy as np
